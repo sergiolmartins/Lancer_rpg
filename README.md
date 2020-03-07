@@ -12,8 +12,8 @@ These are annotations on the rules (and rulings), portraits, maps or other such 
 
 # TODO
 
-• Add rules interaction clarification
-• Add GM screen
+- Add rules interaction clarification
+- Add GM screen
 
 
 # Get in touch
